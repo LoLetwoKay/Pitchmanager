@@ -1,0 +1,44 @@
+F:\.NET\PitchManagement\DAL\bin\Debug\DAL.dll
+F:\.NET\PitchManagement\DAL\bin\Debug\DAL.pdb
+F:\.NET\PitchManagement\DAL\bin\Debug\DTO.dll
+F:\.NET\PitchManagement\DAL\bin\Debug\DTO.pdb
+F:\.NET\PitchManagement\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+F:\.NET\PitchManagement\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\.NET\PitchManagement\DAL\obj\Debug\DAL.csproj.CopyComplete
+F:\.NET\PitchManagement\DAL\obj\Debug\DAL.dll
+F:\.NET\PitchManagement\DAL\obj\Debug\DAL.pdb
+E:\Study\C# Projects\PitchManagement\DAL\bin\Debug\DAL.dll
+E:\Study\C# Projects\PitchManagement\DAL\bin\Debug\DAL.pdb
+E:\Study\C# Projects\PitchManagement\DAL\bin\Debug\DTO.dll
+E:\Study\C# Projects\PitchManagement\DAL\bin\Debug\DTO.pdb
+E:\Study\C# Projects\PitchManagement\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\Study\C# Projects\PitchManagement\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\Study\C# Projects\PitchManagement\DAL\obj\Debug\DAL.dll
+E:\Study\C# Projects\PitchManagement\DAL\obj\Debug\DAL.pdb
+C:\Users\VTCD\Downloads\PitchManagement\DAL\bin\Debug\DAL.dll
+C:\Users\VTCD\Downloads\PitchManagement\DAL\bin\Debug\DAL.pdb
+C:\Users\VTCD\Downloads\PitchManagement\DAL\bin\Debug\DTO.dll
+C:\Users\VTCD\Downloads\PitchManagement\DAL\bin\Debug\DTO.pdb
+C:\Users\VTCD\Downloads\PitchManagement\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\VTCD\Downloads\PitchManagement\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\VTCD\Downloads\PitchManagement\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\VTCD\Downloads\PitchManagement\DAL\obj\Debug\DAL.dll
+C:\Users\VTCD\Downloads\PitchManagement\DAL\obj\Debug\DAL.pdb
+E:\PTUDWD\PitchManagement\DAL\bin\Debug\DAL.dll
+E:\PTUDWD\PitchManagement\DAL\bin\Debug\DAL.pdb
+E:\PTUDWD\PitchManagement\DAL\bin\Debug\DTO.dll
+E:\PTUDWD\PitchManagement\DAL\bin\Debug\DTO.pdb
+E:\PTUDWD\PitchManagement\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\PTUDWD\PitchManagement\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\PTUDWD\PitchManagement\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\PTUDWD\PitchManagement\DAL\obj\Debug\DAL.dll
+E:\PTUDWD\PitchManagement\DAL\obj\Debug\DAL.pdb
+C:\Users\hailo\Desktop\CT25104_B1805646\PitchManagement\DAL\bin\Debug\DAL.dll
+C:\Users\hailo\Desktop\CT25104_B1805646\PitchManagement\DAL\bin\Debug\DAL.pdb
+C:\Users\hailo\Desktop\CT25104_B1805646\PitchManagement\DAL\bin\Debug\DTO.dll
+C:\Users\hailo\Desktop\CT25104_B1805646\PitchManagement\DAL\bin\Debug\DTO.pdb
+C:\Users\hailo\Desktop\CT25104_B1805646\PitchManagement\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\hailo\Desktop\CT25104_B1805646\PitchManagement\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\hailo\Desktop\CT25104_B1805646\PitchManagement\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\hailo\Desktop\CT25104_B1805646\PitchManagement\DAL\obj\Debug\DAL.dll
+C:\Users\hailo\Desktop\CT25104_B1805646\PitchManagement\DAL\obj\Debug\DAL.pdb

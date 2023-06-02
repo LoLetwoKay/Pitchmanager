@@ -1,0 +1,55 @@
+F:\.NET\PitchManagement\BLL\bin\Debug\BLL.dll
+F:\.NET\PitchManagement\BLL\bin\Debug\BLL.pdb
+F:\.NET\PitchManagement\BLL\bin\Debug\DAL.dll
+F:\.NET\PitchManagement\BLL\bin\Debug\DTO.dll
+F:\.NET\PitchManagement\BLL\bin\Debug\DAL.pdb
+F:\.NET\PitchManagement\BLL\bin\Debug\DTO.pdb
+F:\.NET\PitchManagement\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+F:\.NET\PitchManagement\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+F:\.NET\PitchManagement\BLL\obj\Debug\BLL.csproj.CopyComplete
+F:\.NET\PitchManagement\BLL\obj\Debug\BLL.dll
+F:\.NET\PitchManagement\BLL\obj\Debug\BLL.pdb
+E:\Study\C# Projects\PitchManagement\BLL\bin\Debug\BLL.dll
+E:\Study\C# Projects\PitchManagement\BLL\bin\Debug\BLL.pdb
+E:\Study\C# Projects\PitchManagement\BLL\bin\Debug\DAL.dll
+E:\Study\C# Projects\PitchManagement\BLL\bin\Debug\DTO.dll
+E:\Study\C# Projects\PitchManagement\BLL\bin\Debug\DAL.pdb
+E:\Study\C# Projects\PitchManagement\BLL\bin\Debug\DTO.pdb
+E:\Study\C# Projects\PitchManagement\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+E:\Study\C# Projects\PitchManagement\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\Study\C# Projects\PitchManagement\BLL\obj\Debug\BLL.csproj.CopyComplete
+E:\Study\C# Projects\PitchManagement\BLL\obj\Debug\BLL.dll
+E:\Study\C# Projects\PitchManagement\BLL\obj\Debug\BLL.pdb
+C:\Users\VTCD\Downloads\PitchManagement\BLL\bin\Debug\BLL.dll
+C:\Users\VTCD\Downloads\PitchManagement\BLL\bin\Debug\BLL.pdb
+C:\Users\VTCD\Downloads\PitchManagement\BLL\bin\Debug\DAL.dll
+C:\Users\VTCD\Downloads\PitchManagement\BLL\bin\Debug\DTO.dll
+C:\Users\VTCD\Downloads\PitchManagement\BLL\bin\Debug\DAL.pdb
+C:\Users\VTCD\Downloads\PitchManagement\BLL\bin\Debug\DTO.pdb
+C:\Users\VTCD\Downloads\PitchManagement\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\VTCD\Downloads\PitchManagement\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\VTCD\Downloads\PitchManagement\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\VTCD\Downloads\PitchManagement\BLL\obj\Debug\BLL.dll
+C:\Users\VTCD\Downloads\PitchManagement\BLL\obj\Debug\BLL.pdb
+E:\PTUDWD\PitchManagement\BLL\bin\Debug\BLL.dll
+E:\PTUDWD\PitchManagement\BLL\bin\Debug\BLL.pdb
+E:\PTUDWD\PitchManagement\BLL\bin\Debug\DAL.dll
+E:\PTUDWD\PitchManagement\BLL\bin\Debug\DTO.dll
+E:\PTUDWD\PitchManagement\BLL\bin\Debug\DAL.pdb
+E:\PTUDWD\PitchManagement\BLL\bin\Debug\DTO.pdb
+E:\PTUDWD\PitchManagement\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+E:\PTUDWD\PitchManagement\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\PTUDWD\PitchManagement\BLL\obj\Debug\BLL.csproj.CopyComplete
+E:\PTUDWD\PitchManagement\BLL\obj\Debug\BLL.dll
+E:\PTUDWD\PitchManagement\BLL\obj\Debug\BLL.pdb
+C:\Users\hailo\Desktop\CT25104_B1805646\PitchManagement\BLL\bin\Debug\BLL.dll
+C:\Users\hailo\Desktop\CT25104_B1805646\PitchManagement\BLL\bin\Debug\BLL.pdb
+C:\Users\hailo\Desktop\CT25104_B1805646\PitchManagement\BLL\bin\Debug\DAL.dll
+C:\Users\hailo\Desktop\CT25104_B1805646\PitchManagement\BLL\bin\Debug\DTO.dll
+C:\Users\hailo\Desktop\CT25104_B1805646\PitchManagement\BLL\bin\Debug\DAL.pdb
+C:\Users\hailo\Desktop\CT25104_B1805646\PitchManagement\BLL\bin\Debug\DTO.pdb
+C:\Users\hailo\Desktop\CT25104_B1805646\PitchManagement\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\hailo\Desktop\CT25104_B1805646\PitchManagement\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\hailo\Desktop\CT25104_B1805646\PitchManagement\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\hailo\Desktop\CT25104_B1805646\PitchManagement\BLL\obj\Debug\BLL.dll
+C:\Users\hailo\Desktop\CT25104_B1805646\PitchManagement\BLL\obj\Debug\BLL.pdb

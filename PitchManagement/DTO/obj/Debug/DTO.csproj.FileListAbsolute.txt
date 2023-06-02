@@ -1,0 +1,23 @@
+F:\.NET\PitchManagement\DTO\bin\Debug\DTO.dll
+F:\.NET\PitchManagement\DTO\bin\Debug\DTO.pdb
+F:\.NET\PitchManagement\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+F:\.NET\PitchManagement\DTO\obj\Debug\DTO.dll
+F:\.NET\PitchManagement\DTO\obj\Debug\DTO.pdb
+E:\Study\C# Projects\PitchManagement\DTO\bin\Debug\DTO.dll
+E:\Study\C# Projects\PitchManagement\DTO\bin\Debug\DTO.pdb
+E:\Study\C# Projects\PitchManagement\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+E:\Study\C# Projects\PitchManagement\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\Study\C# Projects\PitchManagement\DTO\obj\Debug\DTO.dll
+E:\Study\C# Projects\PitchManagement\DTO\obj\Debug\DTO.pdb
+C:\Users\VTCD\Downloads\PitchManagement\DTO\bin\Debug\DTO.dll
+C:\Users\VTCD\Downloads\PitchManagement\DTO\bin\Debug\DTO.pdb
+C:\Users\VTCD\Downloads\PitchManagement\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\VTCD\Downloads\PitchManagement\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\VTCD\Downloads\PitchManagement\DTO\obj\Debug\DTO.dll
+C:\Users\VTCD\Downloads\PitchManagement\DTO\obj\Debug\DTO.pdb
+C:\Users\hailo\Desktop\CT25104_B1805646\PitchManagement\DTO\bin\Debug\DTO.dll
+C:\Users\hailo\Desktop\CT25104_B1805646\PitchManagement\DTO\bin\Debug\DTO.pdb
+C:\Users\hailo\Desktop\CT25104_B1805646\PitchManagement\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\hailo\Desktop\CT25104_B1805646\PitchManagement\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\hailo\Desktop\CT25104_B1805646\PitchManagement\DTO\obj\Debug\DTO.dll
+C:\Users\hailo\Desktop\CT25104_B1805646\PitchManagement\DTO\obj\Debug\DTO.pdb
